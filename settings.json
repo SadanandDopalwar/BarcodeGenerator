@@ -1,0 +1,9 @@
+{
+    "output_type": "PDF",
+    "input_csv": "data.csv",
+    "output_file": "barcodes.pdf",
+    "barcode_folder": "barcodes",
+    "imageformat": ".png",
+    "ImageWidth": 100,
+    "ImageHeight": 50
+}
